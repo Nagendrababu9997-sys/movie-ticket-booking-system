@@ -1,2 +1,1 @@
-# movie-ticket-booking-system
-Simple Movie Ticket Booking System developed in Python using Object-Oriented Programming (OOP) concepts. Includes movie selection, ticket booking, food combo selection, and total amount calculation.
+Simple Movie Ticket Booking System in Python using OOP concepts with movie selection, food combos, and automatic total amount calculation. 🚀
